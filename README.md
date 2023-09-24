@@ -14,3 +14,7 @@ for example:
     COOKIE_SECRET=LETSBUYSOMECOOKIES
 
 4. run command 'npm start' in the terminal and the server will be ready to go
+
+# Deployment
+this complete website is deployed on render. visit the following url to use the site
+https://social-media-tnsm.onrender.com
