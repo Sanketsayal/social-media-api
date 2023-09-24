@@ -2,8 +2,8 @@
 this is an api which handles different operations of a social media website
 
 # Setup
-1.download the api folder from the github repository or clone it using https://github.com/Sanketsayal/social-media.git
-2.open the folder in any code editor and run command 'npm i' in the terminal. This will download all the dependencies needed to run the server
+1.download the api folder from the github repository or clone it using https://github.com/Sanketsayal/social-media.git  
+2.open the folder in any code editor and run command 'npm i' in the terminal. This will download all the dependencies needed to run the server  
 3.setup environment variables
 for example:
     PORT=8000
